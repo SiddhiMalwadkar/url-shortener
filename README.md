@@ -12,7 +12,7 @@ A high-performance backend service built using **FastAPI** and **PostgreSQL** th
 ![Swagger UI](./images/swagger.png)
 
 ### 🔹 Short URL Creation
-![Shorten API](./images/shorten.png)
+![Shorten API](./images/responses.png)
 
 ### 🔹 Analytics Output
 ![Analytics](./images/analytics.png)
